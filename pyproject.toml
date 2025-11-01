@@ -1,0 +1,13 @@
+[project]
+name = "careerpulse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=25.9.0",
+    "dotenv>=0.9.9",
+    "langchain[google-genai,huggingface,openai]>=1.0.3",
+    "pandas>=2.3.3",
+    "pydantic>=2.12.3",
+]

@@ -1,0 +1,1321 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-ef8ecb8364b7ddd2","indeed","https://malaysia.indeed.com/viewjob?jk=ef8ecb8364b7ddd2","http://malaysia.indeed.com/job/system-administrator-linuxunix-server-platforms-ef8ecb8364b7ddd2","System Administrator (Linux/Unix Server Platforms)","Qboyd software solutions","Kuala Lumpur, M14, MY","2025-10-04","","","","","","",True,"","","","","Position: System Administrator (Linux/Unix Server Platforms)
+
+Location: Kuala Lumpur (KL)
+
+Duration: Permanent
+
+Experience: 3 Years
+
+Key Responsibilities
+
+Identify, diagnose, and resolve escalated incidents in Linux/Unix server platforms.
+
+Escalate cases to L3 Infrastructure/Application teams when required.
+
+Perform regular server operations such as setup, upgrades, patch deployment, monitoring, health checks, backups, and restores.
+
+Responsible for system troubleshooting and performance tuning.
+
+Prepare and maintain technical documentation.
+
+Provide support for issues related to servers and storage.
+
+Liaise with external vendors for IT server operations and maintenance.
+
+Requirements
+
+Bachelor’s degree in Computer Science or related discipline.
+
+ITIL Foundation certification or above (preferred).
+
+Minimum 2\\+ years of relevant working experience in Linux Servers, VMware, x86 servers, and storage.
+
+Experience in sizeable companies with ITIL practices is an advantage.
+
+Self\\-motivated, quick learner, with a can\\-do attitude and able to work under pressure.
+
+Good written and verbal communication skills in English (Cantonese is a plus).
+
+Knowledge of AIX, HPUX, and Solaris is an added advantage.
+
+Willingness to work night shifts and on public holidays.
+
+Technical Skills
+
+SAN Infrastructure:
+
+IBM DS8870 (hardware/software operations including PPRC, SAN provisioning, SAN sync scripting).
+
+EMC storage (remote copy, SAN provisioning).
+
+HP 3PAR storage (remote copy, SAN provisioning).
+
+IBM V7K (Mirror, FlashCopy, SAN provisioning).
+
+HDS G3xx storage (remote copy, SAN provisioning).
+
+FC switch (hardware/software operations including SAN zoning).
+
+FC route operations (SAN sync).
+
+Operating Systems:
+
+AIX (4\\.11 – 7\\.2\\)
+
+RedHat (4 – 9\\)
+
+CentOS (6 – 7\\)
+
+HP\\-UX (10, 11\\)
+
+Alpha Digital UNIX
+
+Solaris (9 – 11\\)
+
+Oracle Linux (7 – 9\\)
+
+Enterprise Virtualization Software:
+
+IBM PowerVM
+
+HP VPAR
+
+HP VM Container
+
+Solaris LDOM
+
+Oracle OLVM
+
+VMware ESXi
+
+RedHat KVM
+
+High Availability (HA) Software:
+
+IBM PowerHA / HACMP
+
+IBM GPFS
+
+Oracle RAC / ASM
+
+RedHat HA Pacemaker
+
+HP Clusterware
+
+Monitoring Tools:
+
+SolarWinds
+
+Preferred Certifications
+
+IBM Certified System Expert
+
+HP Certified IT Professional
+
+Sun Certified System Administrator
+
+Red Hat Certified Engineer (RHCE)
+
+Job Type: Permanent
+
+Pay: RM3,500\\.00 \\- RM6,000\\.00 per month
+
+Application Question(s):
+
+* Are you malaysian Citizen ?
+
+Language:
+
+* Bhasa Malay (Required)
+* Cantonese (Preferred)","","https://malaysia.indeed.com/cmp/Qboyd-Software-Solutions","","","","","","","","","","","",""
+"in-20999827f777c5ef","indeed","https://malaysia.indeed.com/viewjob?jk=20999827f777c5ef","http://malaysia.indeed.com/job/backup-restoration-engineer-20999827f777c5ef","Backup & Restoration Engineer","Qboyd software solutions","Kuala Lumpur, M14, MY","2025-10-04","","","","","","",False,"","","","","Position: Backup \\& Restoration Engineer
+
+Location: Kuala Lumpur (KL)
+
+Duration: Permanent
+
+Experience:3\\+ Years
+
+Job Description
+
+Administer backup and restoration using TSM, NetBackup, Networker, Data Protector, Backup Exec, Veeam Backup, and Data Domain applications.
+
+Monitor scheduled backup jobs and troubleshoot issues (server and client side) to ensure successful completion or take remedial actions for missed and failed jobs.
+
+Collaborate with the Backup and Restoration Team and other relevant parties to troubleshoot issues on various platforms (Oracle, SQL Server, Windows, VMware, and UNIX servers).
+
+Recommend improvements and/or new systems to meet business needs and future capacity requirements.
+
+Install, maintain, update, and administer TSM, NetBackup, Backup Exec, and Veeam Backup applications.
+
+Create and update documentation, including daily and weekly backup reports.
+
+Create Incident and Change Request tickets via ITSM Remedy.
+
+Respond to email alerts and assigned ITSM Remedy tickets, providing timely status updates to relevant parties.
+
+Provide 24x7 rotating on\\-call support when required.
+
+Perform system activities during off\\-peak hours (e.g., patching, upgrades, server shutdowns).
+
+Review and update business SLA documents.
+
+Participate in annual systems Disaster Recovery (DR) drill activities, performing assigned Backup and Restoration tasks.
+
+Requirements
+
+Bachelor’s degree in Computer Science or a related discipline.
+
+ITIL Foundation certification (or higher) is a plus.
+
+Minimum 2 years of relevant experience in Backup and Storage technologies.
+
+Self\\-motivated, quick learner with a proactive and can\\-do attitude; able to work under pressure.
+
+Good written and verbal communication skills in English; Mandarin and Cantonese are a plus.
+
+Knowledge of Storage technologies is an added advantage.
+
+Willingness to work night shifts and on public holidays.
+
+Job Type: Permanent
+
+Pay: RM3,500\\.00 \\- RM6,000\\.00 per month
+
+Application Question(s):
+
+* Are you malaysian Citizen ?
+
+Language:
+
+* Bhasa Malay (Required)
+* Cantonese (Preferred)","","https://malaysia.indeed.com/cmp/Qboyd-Software-Solutions","","","","","","","","","","","",""
+"in-654dcce97e525fbc","indeed","https://malaysia.indeed.com/viewjob?jk=654dcce97e525fbc","http://malaysia.indeed.com/job/product-specifier-kuchai-lama-654dcce97e525fbc","PRODUCT SPECIFIER, KUCHAI LAMA","Agensi pekerjaan ns shue sdn bhd","Kuala Lumpur, M14, MY","2025-10-04","fulltime","","","","","",False,"","","","","1\\. Responsible on
+
+communication/approach in terms
+
+of design, selection, and
+
+specification of lighting
+
+products for construction projects
+
+2\\. Requires a deep understanding of
+
+the product \\- lighting
+
+system \\&amp; applications, and
+
+compliance with local building
+
+codes and standards.
+
+3\\. The Product Specifier will need to
+
+work closely with clients
+
+(consultants, engineers, architects,
+
+contractors) to provide accurate
+
+product specifications.
+
+4\\. Able to prepare comprehensive
+
+product specifications, including
+
+details about materials, dimensions,
+
+finishes, and
+
+installation guidelines.
+
+5\\. Proficient in technical drawing
+
+reading, CAD software, and project
+
+management tools.
+
+6\\. Assist the sales team in preparing
+
+technical presentations and
+
+proposals for clients, having existing
+
+network with fellow structure
+
+consultants in the market would be
+
+advantageous.
+
+7\\. Excellent communication and
+
+interpersonal skills to interact
+
+effectively with clients, contractors,
+
+and internal teams.
+
+Job Types: Full\\-time, Permanent
+
+Pay: RM3,500\\.00 \\- RM4,500\\.00 per month
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Agensi-Pekerjaan-Ns-Shue-Sdn-Bhd","","","","","","","","","","","",""
+"in-f35735827af4d88a","indeed","https://malaysia.indeed.com/viewjob?jk=f35735827af4d88a","http://malaysia.indeed.com/job/marketing-product-specifications-kuchai-lama-f35735827af4d88a","MARKETING PRODUCT SPECIFICATIONS, KUCHAI LAMA","Agensi pekerjaan ns shue sdn bhd","Kuala Lumpur, M14, MY","2025-10-04","fulltime","","","","","",False,"","","","","1\\. Responsible on
+
+communication/approach in terms
+
+of design, selection, and
+
+specification of metal floor decking
+
+products for construction projects
+
+2\\. Requires a deep understanding of
+
+the product, its
+
+system \\&amp; applications, and
+
+compliance with local building
+
+codes and standards.
+
+3\\. The Product Specifier will need to
+
+work closely with clients
+
+(consultants, engineers, architects,
+
+contractors) to provide accurate
+
+product specifications.
+
+4\\. Able to prepare comprehensive
+
+product specifications, including
+
+details about materials, dimensions,
+
+load capacities, finishes, and
+
+installation guidelines.
+
+5\\. Proficient in technical drawing
+
+reading, CAD software, and project
+
+management tools.
+
+6\\. Assist the sales team in preparing
+
+technical presentations and
+
+proposals for clients, having existing
+
+network with fellow structure
+
+consultants in the market would be
+
+advantageous.
+
+7\\. Excellent communication and
+
+interpersonal skills to interact
+
+effectively with clients, contractors,
+
+and internal teams.
+
+Job Types: Full\\-time, Permanent
+
+Pay: RM4,000\\.00 \\- RM5,000\\.00 per month
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Agensi-Pekerjaan-Ns-Shue-Sdn-Bhd","","","","","","","","","","","",""
+"in-adac6111fd7e2689","indeed","https://malaysia.indeed.com/viewjob?jk=adac6111fd7e2689","http://malaysia.indeed.com/job/marketing-product-specifications-adac6111fd7e2689","MARKETING PRODUCT SPECIFICATIONS","Agensi pekerjaan ns shue sdn bhd","Kuchai Lama, M14, MY","2025-10-04","fulltime","","","","","",False,"","","","","1\\. Responsible on
+
+communication/approach in terms
+
+of design, selection, and
+
+specification of metal floor decking
+
+products for construction projects
+
+2\\. Requires a deep understanding of
+
+the product, its
+
+system \\&amp; applications, and
+
+compliance with local building
+
+codes and standards.
+
+3\\. The Product Specifier will need to
+
+work closely with clients
+
+(consultants, engineers, architects,
+
+contractors) to provide accurate
+
+product specifications.
+
+4\\. Able to prepare comprehensive
+
+product specifications, including
+
+details about materials, dimensions,
+
+load capacities, finishes, and
+
+installation guidelines.
+
+5\\. Proficient in technical drawing
+
+reading, CAD software, and project
+
+management tools.
+
+6\\. Assist the sales team in preparing
+
+technical presentations and
+
+proposals for clients, having existing
+
+network with fellow structure
+
+consultants in the market would be
+
+advantageous.
+
+7\\. Excellent communication and
+
+interpersonal skills to interact
+
+effectively with clients, contractors,
+
+and internal teams.
+
+Job Types: Full\\-time, Permanent
+
+Pay: RM4,000\\.00 \\- RM5,000\\.00 per month
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Agensi-Pekerjaan-Ns-Shue-Sdn-Bhd","","","","","","","","","","","",""
+"in-1ff6c2c006b4d60a","indeed","https://malaysia.indeed.com/viewjob?jk=1ff6c2c006b4d60a","http://malaysia.indeed.com/job/system-engineer-m365-1ff6c2c006b4d60a","System Engineer (M365)","Agensi Pekerjaan Tech Staffing Sdn Bhd","Kuala Lumpur, M14, MY","2025-10-04","fulltime","","","","","",False,"","","","","* Provide user support for M365 full suite include messaging and collaboration, such as Teams, Outlook, Endpoint Protection, Intune, Entra ID, Exchange Online and Sharepoint
+* M365 Admin: manage M365 accounts, including password resets, MFA setup
+* Administration of DNS and DHCP
+* Perform backup/ recovery (Nakivo, Synology)
+* Track IT assets, life span and inventory update for movement
+* Grant access right, create group policy, back up and ID deletion
+* Troubleshoot and resolve user desktop / laptops issue
+* Maintain end\\-user computing security controls such as Antivirus, Mobile Device Management, endpoint DLP
+* Ensure network availability for WAN and LAN, wired and wireless
+* Perform routine virus prevention and antispam at desktop support level
+* Maintain and support devices such as desktops, laptops, printers, routers, firewall, voice network, CCTV, door access and other IT peripherals
+* Coordinate infra upgrades with the vendor
+
+**Requirements:**
+
+* Min 4 years experience in end\\-user and Infrastructure Administration
+* Requires experience in M365, Endpoint/Client OS, network, backup software, asset management and firewall
+* Certifications in ITIL/Microsoft Azure/CCNA would be a plus
+* Basic experience in PowerShell scripting skills
+* Familiarity with backup
+
+If this sounds like the role for you, please apply to be considered.
+
+Job Type: Full\\-time
+
+Pay: From RM5,500\\.00 per month
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Agensi-Pekerjaan-Tech-Staffing-Sdn-Bhd","","","","","","","","","","","",""
+"in-a6632912aac4f453","indeed","https://malaysia.indeed.com/viewjob?jk=a6632912aac4f453","https://jobs.lever.co/servicerocket/a50aaf4f-a6af-430e-b3bd-3bb5c5847117","Engineer, Customer Support","ServiceRocket","Kuala Lumpur, M14, MY","2025-10-03","fulltime","","","","","",True,"","","","careers@servicerocket.com","G'day!
+We are ServiceRocket, a global tech\\-enabled services company headquartered in Palo Alto, California. Our purpose is to be the single most reliable partner in the acceleration of your growth. At ServiceRocket, we are committed to the development of every Rocketeer and the trust of every customer.  
+
+Twenty years on and counting, we’ve got your back. **Why is ServiceRocket the place for you*** A 20\\+ year tech services expert of many solutions and partnerships with industry giants.
+* Our diverse world of Rocketeers lives by our values with a collaborative mindset resulting in a 4\\.7 rating on Glassdoor.
+* Our culture rocks! You’ll join a fun\\-loving and inclusive work environment that supports your professional growth and personal well\\-being.
+* We're recognized for our innovation, impact, and outstanding customer support, even earning the Atlassian Partner of the Year 2024–2025 for Co\\-Selling Excellence award.
+
+  
+
+Visit our website to learn more and become a part of our Rocketeer Nation. **Are you passionate about working with the latest ground\\-breaking, disruptive technologies?Do you pride yourself on learning quickly?**
+We are seeking a highly motivated individual to join our team to execute our customer onboarding initiatives with one of our key clients. This key role focuses on providing customers timely entitlements in a high volume environment. The ideal candidate will play a crucial role in ensuring timely provisioning and maintaining high levels of customer satisfaction during internal transitions from team to team.
+You will work closely with different teams such as Support, Implementation, CS and Sales teams to establish and refine operations related to provisioning customers. **What you will do:*** Maintain target metrics related to provisioning, new customer onboarding efficiency, customer satisfaction, revenue impact, process optimization, scalability, team performance, and strategic alignment.
+* Troubleshoot technical issues or questions reported by customers; triage and resolve incidents promptly to minimize customer downtime.
+* Perform root cause analysis for production errors and recommend improvements.
+
+
+Maintain and perform operations related to the ticketing system.* Identify and resolve problems to prevent recurring issues and improve software stability.
+* Provide technical support and troubleshooting assistance to customers to resolve issues and ensure software functionality.
+* Handle escalations to higher\\-level support teams or management when necessary.
+* Generate reports and analyze data to identify trends, improve processes, and enhance customer satisfaction.
+
+ **What you need:*** BA/BS degree in in IT/computing/business management related
+* Strong communication and written skills in English
+* Excellent problem\\-solving and communication skills
+
+
+\\- 3 \\- 5 years background in Customer Support* Excellent communication, interpersonal, and problem\\-solving abilities
+* Strong analytical skills, vital emotional intelligence, and a data\\-driven mindset
+* Able to demonstrate good customer handling/customer service skills
+* Ability to understand and follow established Standard Operating Procedures (SOPs)
+* Desire to learn about cutting edge technologies
+
+ **Additional requirements:*** Familiarity and expertise with maintaining ticketing systems, and integrations
+* Customer\\-facing role, often requiring regular client meetings and screen\\-shares
+* Startup mentality with a desire to assist beyond defined role responsibilities
+* Familiarity with Python/R, Jupyter Notebooks, ZenDesk, \\& Notion is preferred
+* Experience with cloud deployments including AWS, Azure, Google Cloud is a strong plus
+
+**Perks ✨*** **Share the fruit program**: when we grow the tree, we share the fruit–when the company grows, we share the profit.
+* **Stock options**: you have the opportunity to participate in the ownership of the company.
+* **Health insurance:** we support you and your family–your well\\-being matters.
+* **Retirement plan/funds saving:** we care about your future–we have diverse plans depending on your location.
+* **Career pathways program**: you can grow horizontally, vertically, or any way you want.
+* **Generous monthly fixed allowances including** Rockettoria, Scholarship \\& Learning, Tech Choice, Wellness.
+* Generous PTO plus one **cultural heritage and community day** to celebrate your story, family, and culture.
+
+ **Our Selection Process**  
+
+Our goal is for you to interview us. We want you to meet our team so that you can confirm we are the right company for you.  
+
+You will first meet our TA member in charge of the process, they will be your tour guide throughout the entire journey and will be there to answer any questions you may have! Then you’ll meet the hiring team and the executive of the area.  
+
+Become a Rocketeer. Join us in enabling fast\\-growing companies to take off and so will your career! **Additional Information** *ServiceRocket is committed to a diverse and inclusive workplace. ServiceRocket is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.* *\\*Only shortlisted candidates will be notified\\***Although the position is hybrid/remote, preferential consideration will be given to candidates based locally to the country’s office in order to better collaborate with our team. This position is not eligible for visa assistance/sponsorship or relocation assistance.* *RECRUITING FRAUD ALERT: Your personal information and online safety are important to us. At ServiceRocket, recruiters only direct candidates to apply through our official career page at https://www.servicerocket.com/join\\-us.Recruiters will never request payments, ask for financial account information or sensitive information like social security numbers. If you are unsure if a message is from ServiceRocket, please email careers@servicerocket.com.*","","https://malaysia.indeed.com/cmp/Servicerocket","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/076597c21daf2f44f98619f14531c71b","https://www.servicerocket.com","Headquarters is located in Palo Alto, CA, United States.
+Offices also located in Malaysia, Singapore, United Kingdom, Australia, Chile, Canada, and India","201 to 500","","Mission: To be the single most reliable partner in the acceleration of your growth. Our brand promise: We’ve got your back. Our Rocketeer promise: Our promise is to help Rocketeers learn and grow so","","","","","",""
+"in-498deae62ed81f65","indeed","https://malaysia.indeed.com/viewjob?jk=498deae62ed81f65","https://hlb.wd3.myworkdayjobs.com/en-US/HLBCareers/job/HLT-Hong-Leong-Tower/Android-Developer_JR0000022299","Android Developer","Hong Leong Bank","Kuala Lumpur, M14, MY","2025-10-03","fulltime","","","","","",False,"","","","","If you are looking to excel and make a difference, take a closer look at us…
+Job Purpose Summary:
+Responsible for the development and maintenance of android applications in the domain of banking aimed at a vast number of diverse Android devices. Your primary focus will be the development of Android applications and their integration with back\\-end services. You will be working along\\-side other engineers and developers working on different layers of the banking IT infrastructure. Therefore, commitment to collaborative problem solving, sophisticated design, and creating quality mobile applications is essential
+Special Skills
+Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes
+ Familiarity with object oriented programming concepts and languages specially in JAVA and Kotlin
+ Familiarity with RESTful APIs to connect Android applications to back\\-end services
+ Strong knowledge of Android UI design principles, patterns, and best practices
+ Experience with offline storage, threading, and performance tuning
+ Ability to design applications around natural user interfaces, such as ""touch""
+ Familiarity with the use of additional sensors, such as gyroscopes and accelerometers
+ Knowledge of the open\\-source Android ecosystem and the libraries available for common tasks
+ Ability to understand business requirements and translate them into technical requirements
+ Familiarity with cloud message APIs and push notifications
+ A knack for benchmarking and optimization
+ Understanding of Google's Android design principles and interface guidelines
+ Proficient understanding of code versioning tools, such as Git
+ Familiarity with continuous integration
+Key Responsibilities and Accountabilities
+Functional (job responsibilities)
+1\\. Translate designs and wireframes into high quality code
+2\\. Design, build, and maintain high performance, reusable, and reliable Java code
+3\\. Ensure the best possible performance, quality, and responsiveness of the application
+4\\. Identify and correct bottlenecks and fix bugs
+5\\. Help maintain code quality, organization, and automatization
+6\\. Implementation, support and maintenance of applications assigned
+7\\. Responsible for system analysis, system design, application development, report generation, amendment and enhancement for applications assigned
+8\\. Ensure amended and enhanced systems meet user functional requirement specifications
+9\\. Ensure that all documentation, processes and methodologies used in the various phases of system development and implementation are in accordance with the Bank’s standards
+10\\. Ensure proper documentation of all development to facilitate future maintenance and enhancements. Employs the risk assessment methodology issued by the Information Security Department to ensure proper controls are built as required by the business
+11\\. Liaise with users to define systems requirements
+12\\. Provide options/alternatives available to address Users Business Requirements and recommendation on software solution
+13\\. Analyze changes \\& impact on existing systems
+14\\. Prepare, conduct and review of system tests, to ensure accuracy and completeness to ensure problem free\\-implementation
+15\\. Provide support during implementation of software and systems. Liaise with other Departments within division for smooth deployment of Application Software
+16\\. Technology platform assessment inclusive of performance test benchmarking
+Jobholder Requirements
+Education/Qualification
+1\\) Diploma/Degree in Computer Science \\& Information Technology
+Experience
+2\\) \\> 2 years of working experience in Android application development and enterprise applications support*About Hong Leong Bank**We are a leading financial institution in Malaysia backed by a century of entrepreneurial heritage. Providing comprehensive financial services guided by a Digital\\-at\\-the\\-Core ethos has earned us industry recognition and accolades for our innovative approach in making banking simpler and more effortless for our customers. Our digital and physical offerings span across a vast nationwide network in Malaysia, strengthened with an expanding regional presence in Singapore, Hong Kong, Vietnam, Cambodia, and China.**We seek to strike a balance between diversity, inclusion and merit to achieve our* *mission of infusing diversity in thinking and skillsets into our organisation.* *Candidates* *are assessed based on merit and potential, in line with our mission to attract and recruit the best talent available.* *Expanding on our “Digital at the Core” ethos, we are progressively digitising the employee journey and experience to provide a strong foundation for our people to drive life\\-long learning, achieve their career aspirations and grow talent from within our organisation.**Realise your full potential at Hong Leong Bank by applying now.*","Banks And Financial Services","https://malaysia.indeed.com/cmp/Hong-Leong-Bank","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c280b94b09d58544efa18938ef38ab2b","https://www.hlb.com.my","Kuala Lumpur, MY","5,001 to 10,000","$5B to $10B (USD)","","","","","","",""
+"in-c711ab799e136081","indeed","https://malaysia.indeed.com/viewjob?jk=c711ab799e136081","http://malaysia.indeed.com/job/r-machine-learning-specialist-i-gaming-c711ab799e136081","R- Machine Learning Specialist (I-Gaming)","AGENSI PEKERJAAN THE SUPREME HR ADVISORY SDN. BHD.","Bangsar South, M14, MY","2025-10-03","fulltime","","","","","",False,"","","","supreme.rubywong@gmail.com","Job Description
+
+\\-Model Development: Design, build, and maintain scalable machine learning models and algorithms.
+
+\\- Data Analysis: Analyze and preprocess data from various sources to prepare it for model training.
+
+\\- Model Training \\& Evaluation: Train, validate, and tune machine learning models to achieve optimal performance.
+
+\\- Deployment: Deploy models into production and integrate them with existing systems.
+
+\\- Monitoring \\& Maintenance: Monitor model performance in production and update models as necessary to ensure they remain accurate and relevant.
+
+\\- Collaboration: Work with cross\\-functional teams, including data scientists, software engineers, and product managers, to understand requirements and deliver solutions.
+
+\\- Research: Stay current with the latest developments in machine learning and AI to continuously improve our technology stack.
+
+Main Skill
+
+Python, golang, or Java, machine learning frameworks and libraries like TensorFlow, PyTorch, JAX, scikit\\-learn, or equivalent, data management and processing tools such as SQL, Hadoop, Spark, etc, data analysis and visualization tools like NumPy, Pandas, and Matplotlib, Familiarity with NLP concepts and large language models, including transformers and attention mechanisms
+
+If you are interested to apply, kindly submit your updated resume in DOC/PDF format and allow our Consultant to match you with our Clients.
+
+To facilitate the process, please ensure the following details are included in your resume:
+
+Current Address / Location
+
+Current Salary
+
+Reason for Leaving
+
+Expected Salary
+
+Notice Period
+
+WhatsApp: \\+6010\\-2832174
+
+Email: supreme.rubywong@gmail.com
+
+Kindly note that only shortlisted candidates will be notified.
+
+Agensi Pekerjaan The Supreme HR Advisory Sdn Bhd
+
+JTK Number: JTKSM 1252
+
+Job Types: Full\\-time, Permanent
+
+Pay: RM8,000\\.00 \\- RM13,000\\.00 per month
+
+Benefits:
+
+* Opportunities for promotion
+* Professional development
+
+Ability to commute/relocate:
+
+* Bangsar South: Reliably commute or planning to relocate before starting work (Preferred)
+
+Application Question(s):
+
+* Do you familiar with Python, golang, or Java, machine learning frameworks and libraries like TensorFlow, PyTorch, JAX, scikit\\-learn, or equivalent, data management and processing tools such as SQL, Hadoop, Spark, etc, data analysis and visualization tools like NumPy, Pandas, and Matplotlib, Familiarity with NLP concepts and large language models, including transformers and attention mechanisms?
+
+Education:
+
+* Diploma/Advanced Diploma (Preferred)
+
+Experience:
+
+* Model Development: 2 years (Preferred)
+
+Language:
+
+* Mandarin (Preferred)
+
+Location:
+
+* Bangsar South (Preferred)
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Agensi-Pekerjaan-the-Supreme-HR-Advisory-Sdn.-Bhd.","","","","","","","","","","","",""
+"in-f37b41cb5e1e75de","indeed","https://malaysia.indeed.com/viewjob?jk=f37b41cb5e1e75de","https://www.cleverus.com/my/career/software-engineering-intern/","Software Engineering Intern","Clever Consulting","Kuala Lumpur, M14, MY","2025-10-03","internship","","","","","",True,"","","","","About Cleverus
+  
+  
+
+Cleverus is a leading, award\\-winning digital SEO agency known for its deep domain expertise and data\\-driven strategies. We are at the forefront of the search industry, and as part of our commitment to innovation, we are incubating a new, venture\\-backed technology project. This special R\\&D initiative is set to pioneer the next generation of AI\\-powered search analytics
+  
+  
+
+Software Engineering Intern
+  
+A rewarding career with flexible work, fair promotions, and a supportive environment built on respect and growth.
+  
+  
+
+**Working Mode:**  
+
+Remote / Hybrid (Kuala Lumpur)
+  
+  
+
+**Type of Work:**  
+
+Internship
+  
+  
+
+**Your Mission:**  
+
+You will join a dedicated project team building a new SaaS platform from the ground up. Your mission is to help craft a beautiful, intuitive, and high\\-performance user interface that transforms complex data into clear, actionable insights. You will be shipping code that forms the core user experience of an exciting and innovative new product.
+  
+  
+
+**What You’ll Do:**  
+
+Develop, test, and deploy new UI components using React and Next.js.
+  
+Collaborate with our UI/UX designer and engineers to translate concepts into functional, elegant features.
+  
+Troubleshoot and resolve bugs to ensure a polished and stable user experience.
+  
+Contribute to building a modern, scalable, and maintainable codebase.
+  
+Participate in the full software development lifecycle in an agile environment.
+  
+  
+
+**What We’re Looking For:**  
+
+Currently pursuing a degree in Computer Science, Software Engineering, or a related technical field.
+  
+A strong foundation in web development fundamentals (HTML, CSS, JavaScript).
+  
+Experience with a modern JavaScript framework, React is highly preferred.
+  
+A keen interest in product design and user experience.
+  
+Familiarity with Git and version control.
+  
+A strong preference for final\\-year students, as this internship is designed with the potential to convert into a full\\-time position for high\\-performing candidates.
+  
+**Bonus Points:** Experience with TypeScript, Next.js, or data visualization libraries.
+  
+  
+
+**What You’ll Gain:**  
+
+The rare opportunity to work on a greenfield project and help shape a new product from its earliest stages.
+  
+Work in a collaborative environment with the project’s core engineering and design experts, receiving structured feedback and code reviews.
+  
+Hands\\-on experience with a modern tech stack and best practices in building a scalable SaaS application.
+  
+Build a strong portfolio by contributing to an innovative, confidential project within a leading company.
+  
+Join the Cleverus Team
+  
+  
+
+Be part of a team that learns fast, works smart, and grows together
+  
+  
+
+Why Work with Cleverus?
+  
+  
+
+Skip the morning traffic jams and enjoy working from home with Cleverus Malaysia, where learning is fun, engaging, and supportive. Earn a 5\\-figure income in a company that values accountability, communication, and respect. With us, your potential matters more than your background, and fair promotions are based on your hard work and achievements. Start your journey to a rewarding career today!
+  
+Because we have awesome benefits that are hard to find elsewhere;
+  
+  
+
+Work From Home
+  
+""Live Well and Prosper""
+  
+When Learning Become Fun
+  
+Go Up the Ladder the Right Way
+  
+From Any Industry or Background
+  
+Awesome Company Culture","","https://malaysia.indeed.com/cmp/Clever-Consulting-1","","","","","","","","","","","",""
+"in-d841d11212e37416","indeed","https://malaysia.indeed.com/viewjob?jk=d841d11212e37416","http://malaysia.indeed.com/job/r-senior-backend-developer-nodejs-mongodb-d841d11212e37416","R- Senior Backend Developer (NodeJS / MongoDB)","AGENSI PEKERJAAN THE SUPREME HR ADVISORY SDN. BHD.","Kuala Lumpur, M14, MY","2025-10-03","fulltime","","","","","",False,"","","","supreme.rubywong@gmail.com","Job Responsibilities:
+
+Junior\\-level developer with a focus on the MEAN stack (Typescript, NestJS, JavaScript, NodeJS, MongoDB, Express, AngularJS)
+
+Design, develop, test, debug and maintain web and application\\-based solutions. Participate in all phases of the software development life cycle. Assist in process improvement initiatives. Mentor other engineers and provide technical leadership. Work with cross\\-functional teams to ensure successful delivery. Assist in writing and executing test cases create.
+
+Contribute to the design, architecture, and final implementation of the platform. Invent flexible solutions to challenging technical problems that are adaptable and scalable to future business needs, Participate in code reviews.
+
+Be responsible for feasibility analysis and optimization of projects through detailed planning.
+
+Job Requirements:
+
+Experience building high\\-performance, large\\-scale, distributed server applications.
+
+Experience with the back\\-end programming languages such as JavaScript (NodeJS), Java, React, Redis, Clickhouse, GRPC and etc.
+
+Commitment to developing clean code that is easy to maintain and enhance strong logical thinking, analytical and problem\\-solving skills
+
+Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma, Bachelor's Degree/Post\\-Graduate Diploma/Professional Degree in Computer Science/Information Technology or equivalent.
+
+Preferably Junior Executive specialized in IT/Computer \\- Software or equivalent.
+
+Preferably candidate with at least 2\\-year experience in IT/Computer \\- Software or equivalent.
+
+If you are interested to apply, kindly **submit your updated resume in DOC/PDF format** and allow our Consultant to match you with our Clients.
+
+To facilitate the process, please ensure the following details are included in your resume:
+
+Current Address / Location
+
+Current Salary
+
+Reason for Leaving
+
+Expected Salary
+
+Notice Period
+
+WhatsApp: \\+6010\\-2832174
+
+Email: supreme.rubywong@gmail.com
+
+Kindly note that only shortlisted candidates will be notified.
+
+Agensi Pekerjaan The Supreme HR Advisory Sdn BhdJTK Number: JTKSM 1252
+
+Job Type: Full\\-time
+
+Pay: RM7,000\\.00 \\- RM12,000\\.00 per month
+
+Application Question(s):
+
+* Do you familiar with MEAN stack (Typescript, NestJS, JavaScript, NodeJS, MongoDB, Express, AngularJS)?
+
+Education:
+
+* Bachelor's (Preferred)
+
+Experience:
+
+* Computer networking: 2 years (Preferred)
+
+Language:
+
+* Mandarin (Preferred)
+
+Location:
+
+* Kuala Lumpur (50810\\) (Preferred)
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Agensi-Pekerjaan-the-Supreme-HR-Advisory-Sdn.-Bhd.","","","","","","","","","","","",""
+"in-4325aa77c4bf6170","indeed","https://malaysia.indeed.com/viewjob?jk=4325aa77c4bf6170","https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/Malaysia-Kuala-Lumpur/Technical-Application-Specialist--ERP-Support-_JR103322","Technical Application Specialist (ERP Support)","Epicor Software","Kuala Lumpur, M14, MY","2025-10-03","fulltime","","","","","",False,"","","","","As a Technical Support Specialist, you’ll focus on diagnosing and resolving technical and system\\-related issues while providing exceptional customer support. This role involves troubleshooting software applications, working with internal teams, and ensuring users receive accurate and timely solutions.
+
+
+**What you will be doing:**
+
+* Confer with customers via phone, email, or chat to diagnose technical/system problems, troubleshoot issues, and document solutions.
+* Act as a liaison between end users and internal resources to resolve application issues.
+* Follow established procedures to troubleshoot client\\-server software application issues, including those involving Microsoft SQL.
+* Respond to complex technical issues where standard procedures have failed, using customer\\-centric interpersonal skills and technical product knowledge.
+* Stay up to date with software updates and changes through training to provide timely and accurate customer support.
+* Assist with system setup, configuration, and integration tools to enhance product functionality.
+* Address concerns raised by other departments, such as customer experience or sales.
+* Mentor and assist other team members.
+* Contribute to and utilize the department’s knowledge base articles and FAQs.
+
+**What you will likely bring:**
+
+* Excellent written and verbal communication skills for documentation and customer support.
+* Strong customer experience and troubleshooting skills.
+* Knowledge of system applications and accounting business processes (Accounts Payable, Accounts Receivable, General Ledger, etc.).
+* Detail\\-oriented with strong research and problem\\-solving abilities.
+* Experience working in a high\\-volume support environment.
+
+**What could set you apart:**
+
+* 3\\+ years of applicable experience in technical support or a related field.
+* Prior experience with ERP systems and SQL data querying.
+* Industry knowledge and experience in accounting processes.
+
+\\#LI\\-AP1 \\#LI\\-HYBRID
+
+
+**About Epicor**
+
+At Epicor, we’re truly a team. Join 5,000 talented professionals in creating a world of better business through data, AI, and cognitive ERP. We help businesses stay future\\-ready by connecting people, processes, and technology. From software engineers who command the latest AI technology to business development reps who help us seize new opportunities, the work we do matters. Together, Epicor employees are creating a more resilient global supply chain.
+
+
+**We’re** **Proactive, Proud, Partners** **.**
+
+  
+
+Whatever your career journey, we’ll help you find the right path. Through our training courses, mentorship, and continuous support, you’ll get everything you need to thrive. At Epicor, your success is our success. And that success really matters, because we’re the essential partners for the world’s most essential businesses—the hardworking companies who make, move, and sell the things the world needs.
+
+
+**Competitive Pay \\& Benefits**
+
+* **Health and Wellness:** Comprehensive health and wellness benefits designed to support your overall well\\-being.
+* **Internal Mobility:** Opportunities for mentorship, continuing education, and focused career goal setting, with 25% of positions filled internally.
+* **Career Development:** Free LinkedIn Learning licenses for everyone, along with our Mentoring Program to boost your personal development.
+* **Education Support:** Geographically specific programs to balance the cost of education with the benefits of continued learning and personal development.
+* **Inclusive Workplace:** Collaborate with a diverse team in an inclusive, global workplace that fosters innovation and celebrates partnership.
+* **Work\\-Life Balance:** Policies built on mutual trust and support, encouraging time off to rest, recharge, and reconnect.
+* **Global Mobility:** Comprehensive support for international relocations and permanent residency processes.
+**Equal Opportunities and Accommodations Statement**
+
+Epicor is committed to creating a workplace and global community where inclusion is valued; where you bring the whole and real you— that’s who we’re interested in. If you have interest in this or any role\\- but your experience doesn’t match every qualification of the job description, that’s okay\\- consider applying regardless.
+
+
+We are an equal\\-opportunity employer.
+
+
+**Recruiter:**
+
+Amy Lee","","https://malaysia.indeed.com/cmp/Epicor-Software","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ec76f72f553db7b41a09bb02b37cb44c","https://www.epicor.com","Austin, TX","5,001 to 10,000","$1B to $5B (USD)","Our carefully curated industry productivity solutions enable you to keep the world turning, even during the most challenging times.","","","","","",""
+"in-ba79fe3f6f2da047","indeed","https://malaysia.indeed.com/viewjob?jk=ba79fe3f6f2da047","https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/Malaysia-Kuala-Lumpur/Technical-Application-Specialist--ERP-Support-_JR103320","Technical Application Specialist (ERP Support)","Epicor Software","Kuala Lumpur, M14, MY","2025-10-03","fulltime","","","","","",False,"","","","","As a Technical Support Specialist, you’ll focus on diagnosing and resolving technical and system\\-related issues while providing exceptional customer support. This role involves troubleshooting software applications, working with internal teams, and ensuring users receive accurate and timely solutions.
+
+
+**What you will be doing:**
+
+* Confer with customers via phone, email, or chat to diagnose technical/system problems, troubleshoot issues, and document solutions.
+* Act as a liaison between end users and internal resources to resolve application issues.
+* Follow established procedures to troubleshoot client\\-server software application issues, including those involving Microsoft SQL.
+* Respond to complex technical issues where standard procedures have failed, using customer\\-centric interpersonal skills and technical product knowledge.
+* Stay up to date with software updates and changes through training to provide timely and accurate customer support.
+* Assist with system setup, configuration, and integration tools to enhance product functionality.
+* Address concerns raised by other departments, such as customer experience or sales.
+* Mentor and assist other team members.
+* Contribute to and utilize the department’s knowledge base articles and FAQs.
+
+**What you will likely bring:**
+
+* Excellent written and verbal communication skills for documentation and customer support.
+* Strong customer experience and troubleshooting skills.
+* Knowledge of system applications and accounting business processes (Accounts Payable, Accounts Receivable, General Ledger, etc.).
+* Detail\\-oriented with strong research and problem\\-solving abilities.
+* Experience working in a high\\-volume support environment.
+
+**What could set you apart:**
+
+* 3\\+ years of applicable experience in technical support or a related field.
+* Prior experience with ERP systems and SQL data querying.
+* Industry knowledge and experience in accounting processes.
+
+\\#LI\\-AP1 \\#LI\\-HYBRID
+
+
+**About Epicor**
+
+At Epicor, we’re truly a team. Join 5,000 talented professionals in creating a world of better business through data, AI, and cognitive ERP. We help businesses stay future\\-ready by connecting people, processes, and technology. From software engineers who command the latest AI technology to business development reps who help us seize new opportunities, the work we do matters. Together, Epicor employees are creating a more resilient global supply chain.
+
+
+**We’re** **Proactive, Proud, Partners** **.**
+
+  
+
+Whatever your career journey, we’ll help you find the right path. Through our training courses, mentorship, and continuous support, you’ll get everything you need to thrive. At Epicor, your success is our success. And that success really matters, because we’re the essential partners for the world’s most essential businesses—the hardworking companies who make, move, and sell the things the world needs.
+
+
+**Competitive Pay \\& Benefits**
+
+* **Health and Wellness:** Comprehensive health and wellness benefits designed to support your overall well\\-being.
+* **Internal Mobility:** Opportunities for mentorship, continuing education, and focused career goal setting, with 25% of positions filled internally.
+* **Career Development:** Free LinkedIn Learning licenses for everyone, along with our Mentoring Program to boost your personal development.
+* **Education Support:** Geographically specific programs to balance the cost of education with the benefits of continued learning and personal development.
+* **Inclusive Workplace:** Collaborate with a diverse team in an inclusive, global workplace that fosters innovation and celebrates partnership.
+* **Work\\-Life Balance:** Policies built on mutual trust and support, encouraging time off to rest, recharge, and reconnect.
+* **Global Mobility:** Comprehensive support for international relocations and permanent residency processes.
+**Equal Opportunities and Accommodations Statement**
+
+Epicor is committed to creating a workplace and global community where inclusion is valued; where you bring the whole and real you— that’s who we’re interested in. If you have interest in this or any role\\- but your experience doesn’t match every qualification of the job description, that’s okay\\- consider applying regardless.
+
+
+We are an equal\\-opportunity employer.
+
+
+**Recruiter:**
+
+Amy Lee","","https://malaysia.indeed.com/cmp/Epicor-Software","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ec76f72f553db7b41a09bb02b37cb44c","https://www.epicor.com","Austin, TX","5,001 to 10,000","$1B to $5B (USD)","Our carefully curated industry productivity solutions enable you to keep the world turning, even during the most challenging times.","","","","","",""
+"in-418e252899ad4512","indeed","https://malaysia.indeed.com/viewjob?jk=418e252899ad4512","http://malaysia.indeed.com/job/senior-qa-engineer-418e252899ad4512","Senior QA Engineer","YYC GST Consultants Sdn Bhd","Pudu, M14, MY","2025-10-03","fulltime","","","","","",False,"","","","","**Responsibilities:**
+
+* Develop, maintain, and execute detailed test plans, test cases, and automated/manual scripts for web and mobile applications.
+* Perform end\\-to\\-end functional testing to validate new features, while ensuring stability of existing functionalities through regression testing.
+* Log, track, and manage defects using bug\\-tracking platforms such as Jira, and follow through until resolution.
+* Partner with product managers, UI/UX designers, and software engineers to review requirements, clarify acceptance criteria, and ensure deliverables meet user expectations.
+* Conduct cross\\-browser and multi\\-device compatibility testing to guarantee consistent user experiences across platforms.
+* Recommend and implement improvements to QA methodologies, tools, and workflows to support faster, more reliable release cycles.
+* Participate in release readiness assessments, providing quality sign\\-off and risk analysis before deployment.
+* Stay updated on emerging QA tools, frameworks, and best practices to continuously enhance testing efficiency and product quality.
+
+**Requirements:**
+
+* Minimum of 3 years’ experience in quality assurance, specifically testing web and mobile applications.
+* Solid practical background in executing functional testing across diverse platforms.
+* Proficient in using test case management systems and defect tracking tools.
+* Strong analytical thinking, problem\\-solving, and debugging capabilities.
+* Familiarity with agile software development methodologies and continuous integration/continuous deployment (CI/CD) environments.
+
+Job Type: Full\\-time
+
+Pay: From RM5,000\\.00 per month
+
+Benefits:
+
+* Maternity leave
+* Opportunities for promotion
+* Parental leave
+* Professional development
+
+Ability to commute/relocate:
+
+* Pudu: Reliably commute or planning to relocate before starting work (Preferred)
+
+Application Question(s):
+
+* What's your expected monthly basic salary?
+
+Experience:
+
+* Quality assurance: 3 years (Preferred)
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Yyc-Gst-Consultants-Sdn-Bhd","","","","","","","","","","","",""
+"in-3a372ec06b61f720","indeed","https://malaysia.indeed.com/viewjob?jk=3a372ec06b61f720","http://malaysia.indeed.com/job/ai-engineer-fresh-grad-3a372ec06b61f720","AI Engineer (Fresh Grad)","EPS Ventures Sdn Bhd","Kuala Lumpur, M14, MY","2025-10-03","fulltime","","","","","",True,"","","","","**\\*Fresh graduates are welcome to apply\\***
+
+Client: IT Solution Company  
+Location: New Office at Sunway Velocity (Currently WFH, until further notice)  
+Working hour: Mon\\-Fri, 10am\\-7pm
+
+**Benefits: WFH 2 days per week, lunch provided, accommodation allowances, travel allowances, AL up to 18 days per annum**
+
+**Job Responsibilities:**
+
+* Researching, designing, implementing and managing software programs.
+* Testing and evaluating new programs.
+* Identifying areas for modification in existing programs and subsequently developing these modifications.
+* Working closely with other developers, UX designers, business and systems analysts.
+
+**Requirements:**
+
+* At least Degree in IT/Computer Science or equivalent professional certificate
+* Minimum 1 years of working experience with Python \\& R
+* **Fresh graduates are welcome to apply.**
+
+Job Types: Full\\-time, Permanent, Fresh graduate
+
+Pay: RM3,000\\.00 \\- RM4,000\\.00 per month
+
+Benefits:
+
+* Meal provided
+* Opportunities for promotion
+* Professional development
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Eps-Ventures-Sdn-Bhd","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/16bd91ef950bb073ad82c9f9857f1402","https://www.eps.my","Kuala Lumpur","501 to 1,000","","","","","","","",""
+"in-f2eda0c4af373ffa","indeed","https://malaysia.indeed.com/viewjob?jk=f2eda0c4af373ffa","http://malaysia.indeed.com/job/desktop-engineer-level-1-support-ojt-provided-f2eda0c4af373ffa","Desktop Engineer (Level 1 Support - OJT Provided)","ALPHAEUS PTE. LTD.","Kuala Lumpur, M14, MY","2025-10-03","fulltime, contract","","","","","",False,"","","","","**IT Desktop Engineer (On\\-site School Support)**  
+**Location: Singapore**
+
+**Job Overview:**  
+We are seeking a motivated and tech\\-savvy Desktop Support Engineer to join our team, providing on\\-site technical support to schools across Singapore. If you're passionate about technology and enjoy helping others, this role offers a meaningful opportunity to make an impact in an educational environment.
+
+**Responsibilities:**
+
+* Provide on\\-site IT support and troubleshooting for schools, addressing a wide range of technical issues
+* Set up, maintain, and resolve issues related to hardware including desktops, laptops, printers, AV equipment, and tablets
+* Install, update, and troubleshoot software such as Microsoft Office, antivirus tools, and educational applications
+* Handle and transport mobile IT asset carts/trolleys (up to 100kg)
+* Assist with other ad\\-hoc IT support tasks as required
+
+**Requirements:**
+
+* Minimum NITEC in Information Technology or a related field
+* Basic IT knowledge with a strong interest in tech and troubleshooting
+* Good command of English to communicate effectively with school staff and vendors
+* Comfortable working in a school environment with students and staff
+
+**Additional Information**
+
+* **Work Location:** On\\-site support at schools across Singapore
+
+Job Types: Full\\-time, Contract  
+Contract length: 12 months
+
+Pay: RM6,000\\.00 \\- RM9,000\\.00 per month
+
+Ability to commute/relocate:
+
+* Kuala Lumpur (50810\\): Reliably commute or planning to relocate before starting work (Preferred)
+
+Education:
+
+* Diploma/Advanced Diploma (Preferred)
+
+Experience:
+
+* IT technical L 1 support: 1 year (Required)
+
+Willingness to travel:
+
+* 25% (Preferred)
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Alphaeus-Pte.-Ltd.","","","","","","","","","","","",""
+"in-841dfe51fe6c4310","indeed","https://malaysia.indeed.com/viewjob?jk=841dfe51fe6c4310","http://malaysia.indeed.com/job/immediate-opening-tools-specialist-841dfe51fe6c4310","Immediate Opening for Tools Specialist","PAN ASIA SOFTWARE SOLUTIONS SDN BHD","Kuala Lumpur, M14, MY","2025-10-03","fulltime","","","","","",False,"","","","nithyag@panasiagroup.net","Greetings!!!
+
+We have an Immediate Openings **Tools Specialist** with our reputed Client.
+
+**Work Location: KL**
+
+**Contract role: 12 months contract** 
+
+**Exp: 5\\+ years**
+
+**Job Overview:**
+
+**Technical Skills** 
+
+· Experience administering, configuring, integrating and maintaining tools such as GitHub Enterprise, GitHub Copilot, Nexus Repository, GitHub Advanced Security (GHAS) and DevSecOps pipelines.
+
+· Strong understanding of Git, Git\\-based workflows, branching strategies, CI/CD pipelines and GitHub Copilot usage.
+
+· Proficient in CI/CD tools and automation using GitHub Actions, Azure DevOps or similar tools.
+
+· Practical experience integrating and managing security tools including GHAS, SAST, DAST and dependency scanning in CI/CD pipelines.
+
+· Strong knowledge of artifact management practices and tools like Nexus Repository.
+
+· Excellent troubleshooting and problem solving abilities with experience coordinating with vendors and support teams for L2/L3 support.
+
+· Effective in creating technical documentation, user guides and operational runbooks.
+
+· Able to train and mentor developers and others in secure coding, tool usage and DevOps best practices.
+
+· Experience designing dashboards and reports for tool visibility, adoption, performance and compliance tracking.
+
+· Demonstrates a collaborative, proactive approach with a focus on innovation and continuous improvement.
+
+**Soft Skills \\& Competencies:** 
+
+· Strong analytical, technical and problem solving abilities.
+
+· Ability to work cross\\-functionally with Development, QA, DevOps, Security and Governance teams.
+
+· Excellent communication skills with proficiency in English, strong interpersonal skills and clarity in documentation.
+
+· Skilled in managing multiple priorities, projects and deliverables under pressure.
+
+· Self\\-starter with a proactive attitude and strong ownership.
+
+· Customer\\-centric mindset with a focus on delivering reliable and secure services.
+
+· Critical thinker capable of analyzing complex processes and proposing actionable solutions.
+
+· Strong knowledge of version control systems, deployment automation and build configurations.
+
+· Committed to continuous learning to keep pace with evolving technologies and practices.
+
+**Certifications:**
+
+· GitHub Foundations or GitHub Administration Certification (or equivalent experience).
+
+· DevOps/DevSecOps certifications such as Certified DevOps Engineer or DevOps Foundation.
+
+· ITIL Foundation Certification for process alignment and IT service management.
+
+· Agile\\-related certifications (e.g. Scrum Master).
+
+· CI/CD pipeline tool certifications.
+
+Interested Share your updated resume to **nithyag@panasiagroup.net** or Watsapp: **\\+60 165720562** along with below details
+
+Current Salary:
+
+Expected Salary:
+
+Notice Period:
+
+Total Exp:
+
+Relevant Exp:
+
+{Note: if it doesn't suit you, please refer your matching friends or kindly ignore it}
+
+Nithya Senior IT Talent Acquisition Specialist
+
+HP : \\+6016 572 0562
+
+Job Type: Full\\-time
+
+Pay: RM5,000\\.00 \\- RM10,000\\.00 per month
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Pan-Asia-Software-Solutions-Sdn-Bhd","","","","","","","","","","","",""
+"in-331697a010f51ef2","indeed","https://malaysia.indeed.com/viewjob?jk=331697a010f51ef2","http://malaysia.indeed.com/job/automation-engineer-331697a010f51ef2","Automation Engineer","Wenics Sdn Bhd","Mont Kiara, M14, MY","2025-10-02","fulltime","","","","","",False,"","","","hr@wenics.my","**Job Description**:
+
+Wenics Sdn Bhd focus on advanced automation solutions in Malaysia and the broader Southeast Asia region. We are currently seeking an Electrical Automation Project Engineer to join our team. The ideal candidate will have a minimum of three years of experience in automation control or electrical engineering, with a strong focus on project execution and technical support.
+
+**Key Responsibilities**:
+
+* Collaborate with the sales team to provide pre\\-sales technical support, including system design and proposal development.
+* Execute automation projects from inception to completion, ensuring adherence to project timelines, budgets, and quality standards.
+* Conduct site assessments, design electrical schematics, and program automation systems.
+* Perform on\\-site commissioning, troubleshooting, and provide technical support for automation projects.
+* Familiar with various PLC, SCADA, MCC, and variable frequency drive (VFD) products and integrate into automation systems.
+* Ensure compliance with industry standards and safety regulations.
+* Prepare and review technical documentation, including project specifications, drawings and user manuals.
+* Manage project deliverables, schedule, and resources to ensure timely project completion.
+* Provide training and support to clients on the operation and maintenance of installed systems.
+* Work closely with cross\\-functional teams to ensure seamless project execution and customer satisfaction
+
+**Qualifications:**
+
+* Bachelor’s degree in Electrical Engineering, Automation Engineering, or a related field.
+* Minimum of 3 years of experience in electrical automation projects, with a focus on project execution, technical support and services.
+* Proven experience in designing, programming and commissioning of automation or electric systems, including PLC, SCADA, MCC, and VFD applications.
+
+· Familiarity with industrial standards and regulations, such as IEC, ISO, and NEC.
+
+· Proficiency in the use of AutoCAD, EPLAN or similar design software.
+
+* Strong knowledge of office software and project documentation tools.
+* Excellent communication skills in both English and Malay.
+* Ability to work independently and as part of a team, with strong organizational skills and a proactive approach.
+* Willingness to travel frequently within Malaysia and the Southeast Asia region for on\\-site work.
+
+**Preferred Qualifications:**
+
+* Experience with major automation platforms (e.g., SIEMENS, ABB, Schneider Electric, Rockwell Automation).
+* Demonstrated project management experience in industrial automation.
+* Familiarity with digital transformation and IoT applications in industrial settings.
+* Industry\\-relevant certifications (e.g., PMP, Six Sigma) are advantageous.
+* Can communicate smoothly with Chinese partners.
+
+**What We Offer:**
+
+* Competitive salary and benefits package.
+* Opportunities for professional development and career advancement.
+* A collaborative and innovative work environment.
+
+**Application Process:**
+
+Interested candidates are invited to submit their resume and cover letter outlining their relevant experience to hr@wenics.my
+
+Job Type: Full\\-time
+
+Pay: RM3,000\\.00 \\- RM6,000\\.00 per month
+
+Benefits:
+
+* Cell phone reimbursement
+* Flexible schedule
+* Health insurance
+* Maternity leave
+* Meal allowance
+* Opportunities for promotion
+* Parental leave
+* Professional development
+
+Work Location: In person","","https://malaysia.indeed.com/cmp/Wenics-Sdn-Bhd","","","","","","","","","","","",""
+"in-4dc3e6bdce6da697","indeed","https://malaysia.indeed.com/viewjob?jk=4dc3e6bdce6da697","https://careers-cundall.icims.com/jobs/5174/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Principal Structural Engineer","Cundall","Kuala Lumpur, M14, MY","2025-10-02","fulltime","","","","","",False,"","","","","The Team:
+
+We are an award\\-winning global consultancy and have been named Building’s Engineering Consultant of the Year in 2024, 2022 and 2021\\. We are at the forefront of the industry, priding ourselves on our exemplary track record of designing innovative and sustainable projects.  
+
+Sustainability runs through everything we do at Cundall, and our people are empowered to drive change and decarbonise the built environment. By the end of this decade, we have set ourselves an ambitious goal to only work on projects that meet our zero carbon design criteria, a commitment we have called our Zero Carbon Design 2030 goal. We need engineers who share this passion for sustainability and thrive in designing energy efficient buildings and communities.  
+
+As part of the development of its APAC business, and overall global growth, Cundall are excited to announce the establishment of a new office in Kuala Lumpur, Malaysia. Cundall have been working on various projects in Malaysia from our offices in Singapore, Hong Kong and Australia so this is the natural progression for the business, building on long standing relationships and offering the same high standard of multidisciplinary design and consultancy services.  
+
+Our Malaysia office will enhance our regional presence in Asia, taking on exciting projects locally while also collaborating closely with our regional offices to provide seamless support.  
+
+Cundall’s Structural Engineering team prides itself in their exemplary track record of designing innovative and sustainable structural solutions, that minimise the use of natural resources.  
+
+As one of the longest established of Cundall’s many disciplines, the Structural team are a source of world leading expertise – and offer a pro\\-active and collaborative approach to skill development, and professional excellence.
+The Role:
+
+This is an excellent opportunity for an experienced and client focused Structural Engineering expert to join our Pioneer team in Malaysia .  
+
+This excellent opportunity would see you as part of our pioneer team in Malaysia and working on some of the most exciting projects across Asia and internationally.  
+
+As part of our established team of expert engineers and technicians, and working closely with colleagues of various disciplines, you will lead a project team in delivering projects throughout the entire process of structural engineering design, from conceptual design stage towards construction.  
+
+You will develop new and nurture existing outstanding client relationships and ensure repeat business as well as use your wealth of expertise and determination to manage, motivate and lead the structural team in Kuala Lumpur.  
+
+
+The Skills:
+* Accredited BEng or MEng degree level (or equivalent) in Civil or Structural Engineering with Professional Engineer registration with the Board of Engineers Malaysia.
+* You will have proven experience of managing medium / large size projects and delivering to time and budgetary deadlines, whilst complying with operational and other procedures.
+* You will have broad and deep technical knowledge in Structural Engineering, plus demonstrable understanding of other disciplines.
+* Familiar with local codes of practice and authority submission and approval procedures. Experience of using international design codes is a plus.
+* Competent user of relevant structural engineering software.
+* Given the collaborative and client focused nature of this role, excellent communication skills and experience of using your initiative to overcome challenges are essential.
+
+  
+
+Job Description  
+
+Your career at Cundall  
+
+We know that to be the best at what we do we need a diverse workforce underpinned by an inclusive culture. Creating environments where everyone can find joy doing their best work is also great for everyone. That’s why we positively welcome applications from people of all backgrounds and identities, and encourage, support, and celebrate the diverse voices of our people.  
+
+\\#LI\\-RR1","","https://malaysia.indeed.com/cmp/Cundall","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dd3ca119456f70c8411a63c98ccba36e","https://www.cundall.com","Newcastle, England","1,001 to 5,000","$25M to $100M (USD)","Cundall was founded in Newcastle in 1976. Our goal has always been to work with like-minded clients 
+and project partners to create and deliver design solutions that exceed expectations. ","","","","","",""
+"in-7ca2e7bf635bee36","indeed","https://malaysia.indeed.com/viewjob?jk=7ca2e7bf635bee36","https://careers-cundall.icims.com/jobs/5165/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Associate/Associate Director (Electrical)","Cundall","Kuala Lumpur, M14, MY","2025-10-02","fulltime","","","","","",False,"","","","","**The Team:**  
+
+We are an award\\-winning global consultancy and have been named Building’s Engineering Consultant of the Year in 2024, 2022 and 2021\\. We are at the forefront of the industry, priding ourselves on our exemplary track record of designing innovative and sustainable projects.
+  
+  
+
+Sustainability runs through everything we do at Cundall, and our people are empowered to drive change and decarbonise the built environment. By the end of this decade, we have set ourselves an ambitious goal to only work on projects that meet our zero carbon design criteria, a commitment we have called our Zero Carbon Design 2030 goal. We need engineers who share this passion for sustainability and thrive in designing energy efficient buildings and communities.
+  
+  
+
+Our Building Services team’s mission is to play a key role in making buildings more energy efficient, sustainable, cost effective and safe to build and operate. We pride ourselves on our exemplary track record of designing innovative and sustainable mechanical and electrical solutions, that minimise the use of natural resources.
+  
+  
+
+As part of the development of its APAC business, and overall global growth, Cundall are excited to announce the establishment of a new office in Kuala Lumpur, Malaysia. Cundall have been working on various projects in Malaysia from our offices in Singapore, Hong Kong and Australia so this is the natural progression for the business, building on long standing relationships and offering the same high standard of multidisciplinary design and consultancy services.
+  
+  
+
+Our Malaysia office will enhance our regional presence in Asia, taking on exciting projects locally while also collaborating closely with our regional offices to provide seamless support.
+  
+  
+
+**The Role:**  
+
+This is an excellent opportunity for an Electrical Engineering Technical expert and lead to join our pioneer team in Malaysia.
+  
+  
+
+As part of the Senior Team and under our Partner/Director, the Associate/Associate Director will take responsibility for the operational delivery of projects, the management of project teams, the management of client relationships and the line management of teams as well as to play a leading role in ensuring the successful delivery of innovative design solutions for some of the exciting building projects in the region.
+  
+  
+
+Working across a variety of sectors such as Data Centres, Hotel and Hospitality, Commercial and Retail, you will manage and control financial aspects of projects and work closely with colleagues of various disciplines to manage the delivery of technically excellent, profitable projects.
+  
+  
+
+You will be an expert in Electrical Engineering Design and generally knowledgeable across the Built Environment sector. You will also be part of a global skills community for sharing knowledge, projects and your specific expertise.
+  
+  
+
+You will develop new and nurture existing outstanding client relationships and ensure repeat business as well as use your wealth of expertise and determination to manage, motivate and lead our group of multi\\-disciplinary engineers.
+  
+  
+
+**The Skills:**  
+
+A Chartered/Professional Engineer, educated to degree level in Electrical Engineering or Building Services Engineering, you have gained vast experience within a building services context. Ideally you will have vast experience in a data centre field. Having achieved the Board of Engineers Malaysia’s Practicing certificate will be a plus.
+  
+  
+
+You also possess a strong understanding of low energy design and have proven your technical expertise in the relevant design software.
+  
+In your most recent position, you would have consistently demonstrated your ability to manage multiple large\\-scale projects and teams to deliver to, and exceed client expectations, and crucially you have a passion for creative and intuitive design.
+  
+Given the collaborative and client focused nature of this role, excellent communication and project management skills are essential. Regional or international experience would be an added advantage.
+  
+  
+
+Job Description
+  
+  
+
+Your career at Cundall
+  
+  
+
+We know that to be the best at what we do we need a diverse workforce underpinned by an inclusive culture. Creating environments where everyone can find joy doing their best work is also great for everyone. That’s why we positively welcome applications from people of all backgrounds and identities, and encourage, support, and celebrate the diverse voices of our people.
+  
+  
+
+\\#LI\\-RR1","","https://malaysia.indeed.com/cmp/Cundall","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dd3ca119456f70c8411a63c98ccba36e","https://www.cundall.com","Newcastle, England","1,001 to 5,000","$25M to $100M (USD)","Cundall was founded in Newcastle in 1976. Our goal has always been to work with like-minded clients 
+and project partners to create and deliver design solutions that exceed expectations. ","","","","","",""
+"li-4308519525","linkedin","https://www.linkedin.com/jobs/view/4308519525","","SQL and Java Developer","Konica Minolta Malaysia","Petaling Jaya, Selangor, Malaysia","2025-10-03","","","","","","",False,"","","","","","","https://my.linkedin.com/company/konicaminoltamy","","","","","","","","","","","",""
+"li-4281814965","linkedin","https://www.linkedin.com/jobs/view/4281814965","","Java Developer (Kuala Lumpur)","Lenovo","","2025-10-03","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lenovo","","","","","","","","","","","",""
+"li-4310158546","linkedin","https://www.linkedin.com/jobs/view/4310158546","","Backend Developer (.NET)","The Smart Local (TSL) Media Group","Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","2025-10-03","","","","","","",False,"","","","","","","https://www.linkedin.com/company/tslmediagroup","","","","","","","","","","","",""
+"li-4309879786","linkedin","https://www.linkedin.com/jobs/view/4309879786","","Internship - Software Development (Embedded)","Western Digital","Petaling Jaya, Selangor, Malaysia","2025-10-03","","","","","","",False,"","","","","","","https://www.linkedin.com/company/western-digital","","","","","","","","","","","",""
+"li-4308801504","linkedin","https://www.linkedin.com/jobs/view/4308801504","","Java Developer","Lenovo","Petaling Jaya, Selangor, Malaysia","2025-10-03","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lenovo","","","","","","","","","","","",""
+"li-4310152220","linkedin","https://www.linkedin.com/jobs/view/4310152220","","Back End Engineer - Cards Team","PayNet (Payments Network Malaysia)","Federal Territory of Kuala Lumpur, Malaysia","2025-10-03","","","","","","",False,"","","","","","","https://my.linkedin.com/company/payments-network-my-sdn-bhd","","","","","","","","","","","",""
+"li-4308579062","linkedin","https://www.linkedin.com/jobs/view/4308579062","","Junior Java Engineer","Vocalbeats","WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","2025-10-03","","","","","","",False,"","","","","","","https://sg.linkedin.com/company/vocalbeats","","","","","","","","","","","",""
+"li-4224843465","linkedin","https://www.linkedin.com/jobs/view/4224843465","","FA Software Engineer","NXP Semiconductors","Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","2025-10-03","","","","","","",False,"","","","","","","https://nl.linkedin.com/company/nxp-semiconductors","","","","","","","","","","","",""
+"li-4303881612","linkedin","https://www.linkedin.com/jobs/view/4303881612","","Software Engineer, Fullstack","Grab","Petaling Jaya, Selangor, Malaysia","2025-10-02","","","","","","",False,"","","","","","","https://sg.linkedin.com/company/grabapp","","","","","","","","","","","",""
+"li-4308263953","linkedin","https://www.linkedin.com/jobs/view/4308263953","","Front End Developer","Idea Batch Sdn Bhd","Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","2025-10-02","","","","","","",False,"","","","","","","https://my.linkedin.com/company/ideabatch","","","","","","","","","","","",""
+"li-4286381827","linkedin","https://www.linkedin.com/jobs/view/4286381827","","Software Quality Assurance Engineer","Electronic Arts (EA)","Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia","2025-10-02","","","","","","",False,"","","","","","","https://www.linkedin.com/company/electronic-arts","","","","","","","","","","","",""
+"li-4309161522","linkedin","https://www.linkedin.com/jobs/view/4309161522","","Software Engineer","LIAN S.a.s. di Travaglini Paolo & C.","Shah Alam, Selangor, Malaysia","","","","","","","",False,"","","","","","","https://it.linkedin.com/company/lian-s.a.s.","","","","","","","","","","","",""
+"li-4309162537","linkedin","https://www.linkedin.com/jobs/view/4309162537","","Software Engineer","LIAN S.a.s. di Travaglini Paolo & C.","Shah Alam, Selangor, Malaysia","","","","","","","",False,"","","","","","","https://it.linkedin.com/company/lian-s.a.s.","","","","","","","","","","","",""
+"li-4309158890","linkedin","https://www.linkedin.com/jobs/view/4309158890","","Software Engineer","LIAN S.a.s. di Travaglini Paolo & C.","Shah Alam, Selangor, Malaysia","","","","","","","",False,"","","","","","","https://it.linkedin.com/company/lian-s.a.s.","","","","","","","","","","","",""
+"li-4309175278","linkedin","https://www.linkedin.com/jobs/view/4309175278","","Web Developer","GB wusic","Sepang, Selangor, Malaysia","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/gb-wusic","","","","","","","","","","","",""
+"li-4309173291","linkedin","https://www.linkedin.com/jobs/view/4309173291","","Web Developer","PLT Inc.","Subang Jaya, Selangor, Malaysia","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/plt-inc.","","","","","","","","","","","",""
+"li-4289902128","linkedin","https://www.linkedin.com/jobs/view/4289902128","","Python Developer","DXC Technology","Petaling Jaya, Selangor, Malaysia","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/dxctechnology","","","","","","","","","","","",""
+"li-4289794642","linkedin","https://www.linkedin.com/jobs/view/4289794642","","Java Developer","DXC Technology","Petaling Jaya, Selangor, Malaysia","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/dxctechnology","","","","","","","","","","","",""
+"li-4236566538","linkedin","https://www.linkedin.com/jobs/view/4236566538","","Software Engineer, R&D","Esker Asia","Kuala Lumpur City, Federal Territory of Kuala Lumpur, Malaysia","","","","","","","",False,"","","","","","","https://sg.linkedin.com/company/eskerasia","","","","","","","","","","","",""
+"li-4289900178","linkedin","https://www.linkedin.com/jobs/view/4289900178","","Java Developer","DXC Technology","Petaling Jaya, Selangor, Malaysia","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/dxctechnology","","","","","","","","","","","",""

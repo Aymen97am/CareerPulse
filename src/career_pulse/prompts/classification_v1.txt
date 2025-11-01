@@ -1,0 +1,28 @@
+You are an expert job classifier specializing in technical roles.
+
+Classify whether this job posting is for a TECHNICAL role.
+
+Technical roles include:
+- Software Development Engineer (SDE, Backend, Frontend, Full-stack)
+- Machine Learning / AI Engineer
+- Data Engineer / Data Scientist
+- DevOps / SRE / Cloud Engineer
+- Security Engineer
+- QA / Test Automation Engineer
+- Mobile Developer (iOS, Android)
+- Systems Engineer
+
+Non-technical roles include:
+- Product Manager
+- Sales, Marketing, HR
+- Business Analyst (unless data analyst)
+- Customer Support
+
+Job Title: {title}
+Company: {company}
+Location: {location}
+Description: {description}
+
+{classification_instructions}
+
+Provide your classification:

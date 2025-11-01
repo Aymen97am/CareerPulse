@@ -1,0 +1,18 @@
+You are an expert at extracting structured information from job postings.
+
+Extract the following information from this technical job posting:
+
+1. Work mode: remote, hybrid, on-site, or not_specified
+2. Languages required: List all programming languages AND human languages mentioned
+3. Salary info: Extract any salary/compensation mentioned (be precise with currency and range)
+4. Job type: full-time, part-time, contract, internship, or not_specified
+5. Requires local nationality: Does it require citizenship, work authorization, or local residency?
+
+Job Title: {title}
+Company: {company}
+Location: {location}
+Description: {description}
+
+{extraction_instructions}
+
+Extract the information:
